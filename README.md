@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💫 About Me:
 Software Engineer | DevOps & SRE | Python Developer | Researcher
 - 🌱 I'm a Software Engineer with Focus on Backend, DevOps and SRE 
-- ⚡ Currently working as Tech Lead taking charge of Backend and DevOps at [![Tiaspaces](https://tiaspaces.com)]
+- ⚡ Currently working as Tech Lead taking charge of Backend and DevOps at [[Tiaspaces](https://tiaspaces.com)]
 
 
 ## 🌐 Socials:
