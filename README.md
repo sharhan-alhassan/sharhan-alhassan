@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👋 Hi there! I'm Sharhan Alhassan
 
 
 <!-- **sharhan-alhassan/sharhan-alhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 
-# 💫 About Me:
-AI Explorer | Data Scientist | Python Developer | Transforming Challenges into Solutions
-- 🌱 I’m currently learning Deep Learning, Natural Language Processing, Generative AI and AWS 
-- ⚡ Looking to collaborate on deep learning and ai projects  
+## 💫 About Me:
+Software Engineer | DevOps & SRE | Python Developer | Researcher
+- 🌱 I'm a Software Engineer with Focus on Backend, DevOps and SRE 
+- ⚡ Currently working as Tech Lead taking charge of Backend and DevOps at [![Tiaspaces](https://tiaspaces.com)]
 
 
 ## 🌐 Socials:
