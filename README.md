@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 Software Engineer | Researcher | Open Source Enthusiast
 - 🌱 I'm a Software Engineer with Focus on Backend, DevOps and SRE 
 - ⚡ Currently working as Tech Lead taking charge of Backend and DevOps at [Tiaspaces](https://tiaspaces.com)
+- ⚡ Explore my full portfolio [HERE!](https://sharhan-alhassan.github.io)
 
 
 ## 🌐 Socials:
