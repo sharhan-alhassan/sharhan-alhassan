@@ -1,20 +1,5 @@
 # 👋 Hi there! I'm Sharhan Alhassan
 
-
-<!-- **sharhan-alhassan/sharhan-alhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-
 ## 💫 About Me:
 Software Engineer | Researcher | Open Source Enthusiast
 - 🌱 I'm a Software Engineer with Focus on Backend, DevOps and SRE 
@@ -40,7 +25,7 @@ Software Engineer | Researcher | Open Source Enthusiast
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharhan-alhassan&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharhan-alhassan&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![Sharhan's GitHub Repository Contribution stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sharhan-alhassan&&show_icons=true&theme=dark)
+![GitHub Repository Contribution stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sharhan-alhassan&&show_icons=true&theme=dark)
