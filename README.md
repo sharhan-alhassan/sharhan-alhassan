@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 ## 💫 About Me:
-Software Engineer | DevOps & SRE | Python Developer | Researcher
+Software Engineer | Researcher | Open Source Enthusiast
 - 🌱 I'm a Software Engineer with Focus on Backend, DevOps and SRE 
 - ⚡ Currently working as Tech Lead taking charge of Backend and DevOps at [Tiaspaces](https://tiaspaces.com)
 
@@ -30,7 +30,7 @@ Software Engineer | DevOps & SRE | Python Developer | Researcher
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,python,go,nodejs,js,ts,fastapi,flask,django,aws,gcp,azure,postgres,mysql,mongodb,nginx,elasticsearch,prometheus,rabbitmq,redis,sqlite,terraform,postman,git,github,githubactions,debian,bash,vim,linux" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,python,go,nodejs,js,ts,fastapi,flask,django,aws,gcp,azure,postgres,mysql,mongodb,nginx,elasticsearch,prometheus,rabbitmq,redis,sqlite,terraform,postman,git,github,githubactions,debian,bash,vim&perline=10" />
   </a>
 </p>
 
