@@ -20,7 +20,6 @@ Software Engineer | Researcher | Open Source Enthusiast
 - 🌱 I'm a Software Engineer with Focus on Backend, DevOps and SRE 
 - ⚡ Currently working as Tech Lead taking charge of Backend and DevOps at [Tiaspaces](https://tiaspaces.com)
 - 🔭 Explore my full portfolio [HERE!](https://sharhan-alhassan.github.io)
-- 🔭 Explore my full portfolio <a href="https://sharhan-alhassan.github.io" target="_blank">HERE!</a>
 - 📫 Want to know the latest thing I'm writing? Head to my Blog [COMING SOO!](#)
 
 
